@@ -2,6 +2,6 @@ package test;
 
 public class test {
 	public static void main(String args[]){
-kalama a yuu
+kalama kst cp
 		package test;
 
