@@ -6,7 +6,8 @@ public class test {
 
 public class test {
 	public static void main(String args[]){
-		system.out.print(“kyat a yuu”);
+		system.out.print(“kst cp pzm”);
+		system.out.print(“kst cp pzm2”);
 	}
 
 }
